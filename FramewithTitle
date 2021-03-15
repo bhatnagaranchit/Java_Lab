@@ -1,0 +1,12 @@
+import java.awt.*;
+
+
+public class newFrame{
+public static void main(String[] args){
+      newFrame r = new newFrame("ratro");
+      r.setTitle("anc java file")
+      r.setSize( 500, 500); 
+      r.setVisible(true);
+     
+}
+}
